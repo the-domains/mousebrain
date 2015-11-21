@@ -1,0 +1,28 @@
+name: mousebrain
+favicon: null
+layout_spectrum: 0.8604030490387231
+typography_spectrum: 0.5562257999554276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.21786945778876543
+  lightness: 0.6444160717073828
+  saturation: 0.7103109073359519
+  rhythmicContrast: 0.23297256114892662
+purpose: []
