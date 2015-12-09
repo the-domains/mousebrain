@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mousebrain]]></title>
-        <description><![CDATA[mousebrain]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Works by Peter Gikandi]]></title>
+        <description><![CDATA[Works by Peter Gikandi]]></description>
+        <link>https://thegrid.ai/mousebrain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 13:20:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 04:35:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mousebrain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c8148d-3887-4d01-aff9-99f03c9e1576.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/mousebrain/eaf5e088-211c-4530-8737-9a3faf1cd24a/index.html</link>
+            <guid isPermaLink="false">eaf5e088-211c-4530-8737-9a3faf1cd24a</guid>
+            <pubDate>Wed, 09 Dec 2015 04:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48558d3c-35ab-4bb6-87df-827b700bf945.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/mousebrain/6113043b-6ff7-4f2d-8a32-5f46bb0d7721/index.html</link>
+            <guid isPermaLink="false">6113043b-6ff7-4f2d-8a32-5f46bb0d7721</guid>
+            <pubDate>Wed, 09 Dec 2015 04:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Gikandi]]></title>
+            <description><![CDATA[<article><h1>Peter Gikandi</h1><p>an artist, writer and creative thinker based in Vancouver, Canada. Professionally a Production Designer in the video games industry, I spend much of the other time travelling and tinkering. Some of these travels and tinkerings become stories, books, illustrations and animations, or just pretty things.</p></article>]]></description>
+            <link>https://thegrid.ai/mousebrain/peter-gikandi/index.html</link>
+            <guid isPermaLink="false">05e6aae7-3265-4986-b9b4-a8b290b08dc4</guid>
+            <pubDate>Tue, 08 Dec 2015 13:20:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Dead and the Living]]></title>
             <description><![CDATA[<article><h1>The Dead and the Living</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3abab73302c2c503638f4d42c6ba920ffb5a93af.jpg"></article>]]></description>
-            <link>undefinedthe-dead-and-the-living/index.html</link>
+            <link>https://thegrid.ai/mousebrain/the-dead-and-the-living/index.html</link>
             <guid isPermaLink="false">2f4bb483-d2c5-40aa-97b1-a79530be01f1</guid>
             <pubDate>Tue, 08 Dec 2015 13:20:24 GMT</pubDate>
         </item>
