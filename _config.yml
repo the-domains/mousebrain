@@ -1,6 +1,6 @@
 name: mousebrain
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.22705
 typography_spectrum: 0.23372
 title: Works by Peter Gikandi
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff1d40'
     - '#000000'
     - '#103c35'
-  brandStrength: 0.375
-  lightness: 0.8125
-  saturation: 0.25
-  rhythmicContrast: 0.5
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
